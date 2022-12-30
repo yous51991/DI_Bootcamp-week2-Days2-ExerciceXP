@@ -1,3 +1,12 @@
+/*****************************************************************
+Correteur: Yannick GOUGUIA
+
+Vous avez soumis l'exercice du DAY2 a la place des exercices du DAY1
+
+Revoir ces exercices
+
+*****************************************************************/
+
 //Exercice 1 : Instruction If/Else Simple
 let x = 10;
 let y = 5;
